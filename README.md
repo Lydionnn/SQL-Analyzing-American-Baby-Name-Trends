@@ -15,10 +15,4 @@ This project utilizes publicly available data on American baby names provided by
 
 ## Tools and Technologies 🔧🤖
 SQL: All data querying and manipulation are performed using SQL, providing a robust platform for data analysis.
-Database: SQLite/PostgreSQL (modifiable as per user preference).
-Getting Started
-Prerequisites
-Ensure you have the following installed:
-
-SQL database management system (e.g., SQLite, PostgreSQL)
-Basic knowledge of SQL queries
+Database: SQLite/PostgreSQL
